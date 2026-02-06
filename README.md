@@ -1,6 +1,6 @@
 # 🎵 Discord Müzik Bot
 
-Profesyonel Discord müzik botu - YouTube'dan müzik çalabilen, tam özellikli bot!
+ProfessionaL Discord müzik botu - YouTube'dan müzik çalabilen, tam özellikli bot!
 
 ## ✨ Özellikler
 
